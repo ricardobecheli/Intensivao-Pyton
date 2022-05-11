@@ -1,2 +1,38 @@
 # Intensivao-Pyton
  2022 May 9-13 - Hashtag Course - Mr Lira in the drums.
+ 
+ ## Writing down in English helps organizing the process of starting a programming project.
+ 
+ Pyautogui library is perfect for commanding actions to e mouse, keyboard and screen.
+ 
+ It works together with pyperclip.
+ 
+ Install both. (only once ans forever it's ok).
+ 
+ But every time you start coding in Pyton and will use them you must IMPORT them.
+ 
+pyautogui.hotkey (a set of keys to be "pressed")
+
+pyautogui.write (to write a text)
+
+pyautogui.press (press 1 key)
+
+
+ STEP 1: Go into the company system (in our case, the link above, stored in the Course's Google Drive.)
+ 
+ * pyautogui.hotkey("ctrl", "t")
+ 
+
+ STEP 2: Navigate in that system to find the database (in our case, go into the "export" folder.)
+
+ STEP 3: Download the database.
+
+ STEP 4: Import the database to Pyton.
+
+ STEP 5: Calculate the indicators.
+
+ STEP 6: E-mail the report to the board of directors.
+
+ 
+
+ 
