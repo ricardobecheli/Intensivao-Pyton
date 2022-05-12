@@ -62,6 +62,12 @@ pyautogui.press (press 1 key)
  STEP 5: Calculate the indicators.
 
  STEP 6: E-mail the report to the board of directors.
+ 
+ # End of my remarks here in readme.md
+ 
+ All further lesson's remarks are in the code itself: Arquivo Inicial - Aula 1.ipynb.
+ 
+ Why? Because it's taking me too much tiome to write twice or even copy.
 
  
 
