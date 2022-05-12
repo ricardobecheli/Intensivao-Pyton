@@ -7,21 +7,21 @@ Writing down (comments here or elsewhere) in English step by step what you want 
 
 helps organizing the process. 
 
-See below:
+See below (as written in Jupyter):
 
 comment and action, comment and action, comment and action, etc...
 
 STEP 1: Go into the company system (in our case, the link above, stored in the Course's Google Drive.)
 
-pyautogui.hotkey("ctrl", "t")
+&emsp;&emsp;pyautogui.hotkey("ctrl", "t")
 
-pyperclip.copy("https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing")
+&emsp;&emsp;pyperclip.copy("https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing")
 
 It must be pyperclip.copy, not "pyautogui.write"
 
-pyautogui.hotkey("ctrl", "v")
+&emsp;&emsp;pyautogui.hotkey("ctrl", "v") (note: to indent in markdown I'm using two `&emsp;`)
 
-pyautogui.press("enter")
+&emsp;&emsp;pyautogui.press("enter")
 
 STEP 2: Navigate in that system to find the database (in uou case, go into the "export" folder.)
 
