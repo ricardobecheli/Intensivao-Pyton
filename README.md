@@ -3,6 +3,36 @@
  
  ## Writing down in English helps organizing the process of starting a programming project.
  
+Writing down (comments here or elsewhere) in English step by step what you want to be done 
+
+helps organizing the process. 
+
+See below:
+
+comment and action, comment and action, comment and action, etc...
+
+STEP 1: Go into the company system (in our case, the link above, stored in the Course's Google Drive.)
+
+pyautogui.hotkey("ctrl", "t")
+
+pyperclip.copy("https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing")
+
+It must be pyperclip.copy, not "pyautogui.write"
+
+pyautogui.hotkey("ctrl", "v")
+
+pyautogui.press("enter")
+
+STEP 2: Navigate in that system to find the database (in uou case, go into the "export" folder.)
+
+STEP 3: Download (export) the database.
+
+STEP 4: Import the database to Pyton.
+
+STEP 5: Calculate the indicators.
+
+STEP 6: E-mail the report to the board of directors.
+ 
  Pyautogui library is perfect for commanding actions to e mouse, keyboard and screen.
  
  It works together with pyperclip.
